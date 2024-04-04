@@ -10,7 +10,7 @@
 
 	<name>spring5webapp</name>
 	<description>Demo project for Spring Boot</description>
-
+<!--	This is and example to test Circle CI-->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
